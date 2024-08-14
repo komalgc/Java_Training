@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class IfStatement {
 
-    public static void main (String arg[]){
+    public static void main (String args[]){
 
         /* IF statement
         All sale people get a payment of $1000 every week
